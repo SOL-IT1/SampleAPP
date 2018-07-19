@@ -2,7 +2,7 @@
 
 
 # SampleNewsApp
-This is a sample app build using Apache Cordova .
+This is a sample app build using Apache Cordova . :tada:
 
 # Motive
 
